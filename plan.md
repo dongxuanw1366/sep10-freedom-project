@@ -9,6 +9,6 @@
 * Add all the content
 * Compelete all basic layout and add image
 
-### Beyond MVP
+### Beyond MVP after spring break
 * Add background color
 * Add extra Components and special functions like tooltip
