@@ -14,6 +14,7 @@
 
 ### Complete the MVP during spring break or the week after spring break
 * Add all the content
+ * Have navbar, cards and content
 * Compelete all basic layout and add all the images
 
 ### Beyond MVP before end of april
