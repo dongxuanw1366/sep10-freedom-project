@@ -8,7 +8,7 @@
 
 
 ## April 5:
-* Import parallax template for materialize
+* Import parallax template from materialize to my website
 * Start website
 * Set up containers
 
