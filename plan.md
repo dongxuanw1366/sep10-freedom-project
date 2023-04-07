@@ -1,5 +1,5 @@
 ## Font
-* Rubik Iso (Title)
+* Oswald (Title)
 * Monospace
 
 ## Color

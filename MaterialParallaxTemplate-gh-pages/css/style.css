@@ -49,7 +49,7 @@ footer.page-footer {
 
 
 
- .parallax img 
+ .parallax img
  {
  	 background-repeat: no-repeat;
  	 background-size: cover;
@@ -72,7 +72,8 @@ footer.page-footer {
   background-color: #CC0066 !important;
 }
 .teal-text.text-lighten-2 {
-  color: #CC0066 !important;
+  color: #154C6F !important;
+  font-family: 'Oswald', sans-serif;
 }
 .share-buttons{
 	list-style: none;
