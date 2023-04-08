@@ -1,9 +1,11 @@
 ## Font
 * Oswald (Title)
-* Monospace
+* Rubik (paragraph)
 
 ## Color
-*
+* #FF7F50
+* #F5F5DC
+* #3EB489
 
 
 
@@ -14,7 +16,7 @@
 
 ### Complete the MVP during spring break or the week after spring break
 * Add all the content
- * Have navbar, cards and content
+  * Have navbar, cards and content
 * Compelete all basic layout and add all the images
 
 ### Beyond MVP before end of april
