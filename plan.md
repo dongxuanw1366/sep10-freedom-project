@@ -6,6 +6,7 @@
 * #FF7F50
 * #F5F5DC
 * #3EB489
+* #FFFFF0
 
 
 
