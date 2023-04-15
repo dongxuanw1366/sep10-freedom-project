@@ -18,6 +18,10 @@ p {
   color: rgba(255,255,255,.9);
 }
 
+.icon-padding {
+  padding-top: 25px;
+}
+
 p {
   font-family: 'Rubik', sans-serif;
 }
