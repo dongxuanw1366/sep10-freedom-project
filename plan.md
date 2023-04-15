@@ -1,6 +1,7 @@
 ## Font
 * Oswald (Title)
 * Rubik (paragraph)
+* Monospace
 
 ## Color
 * #FF7F50
