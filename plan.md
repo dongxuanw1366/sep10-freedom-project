@@ -26,4 +26,4 @@
 
 ### Beyond MVP before end of april
 * Add background color and special fonts
-* Add extra Components and special functions like tooltip and parallax
+* Add extra Components and special functions like accordion and parallax
