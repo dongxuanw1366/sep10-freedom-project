@@ -2,6 +2,7 @@
 * Oswald (Title)
 * Rubik (paragraph)
 * Monospace
+* Source Sans Pro (credit)
 
 ## Color
 * #FF7F50
@@ -9,6 +10,7 @@
 * #3EB489
 * #FFFFF0
 * #171F1E
+* #C0C0C0
 
 
 
